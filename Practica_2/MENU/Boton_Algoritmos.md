@@ -1,3 +1,3 @@
 Algortimos ver = new Algortimos();
-        ver.setVisible(true);
-        this.dispose();
+ver.setVisible(true);
+this.dispose();
